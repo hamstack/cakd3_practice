@@ -1,1 +1,2 @@
-# cakd3_django"# cakd3_practice" 
+"# cakd3_practice"
+revise readme
